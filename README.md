@@ -19,6 +19,6 @@ h1 { color: #333; margin-bottom: 10px; }
 <p><strong>Target Audience:</strong>General Public who is interested in Material Conservation</p>    
 </div>    
 <!-- 把下面的 A3 poster.png 换成你上传的图片实际文件名 -->    
-<img src="poster in oct 2026 revised" alt="conservation talk Poster" class="poster">
+<img src="poster in oct 2026 revised" alt="Conservation Talk Poster" class="poster">
 </body>
 </html>
