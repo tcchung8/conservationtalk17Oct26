@@ -15,7 +15,7 @@ h1 { color: #333; margin-bottom: 10px; }
 <body>    
 <h1><br></h1>    
 <div class="info">        
-<p><strong>Nov of 2026</strong></p>        
+<p><strong>Oct of 2026</strong></p>        
 <p><strong>Target Audience:</strong>General Public who is interested in Material Conservation</p>    
 </div>    
 <!-- 把下面的 A3 poster.png 换成你上传的图片实际文件名 -->    
